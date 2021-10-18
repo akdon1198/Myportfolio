@@ -1,0 +1,36 @@
+
+
+.mainNav{
+    width: 98%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+}
+
+.nav{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: green;
+    border: 1px solid white;
+}
+
+.linkHover{
+    text-decoration: none;
+    color: green;
+    border: 1px solid green;
+    font-weight: 700;
+    border-radius: 10px;
+}
