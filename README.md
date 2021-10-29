@@ -4,7 +4,7 @@ So this is my portfolio. You can find all the work I done till yet. Also you fin
 
 
 # Technology Stack Used
-In this project we have used the following tech stack:
+In this project I have used the following tech stack:
 * React
 * CSS
 * JavaScript
@@ -16,7 +16,7 @@ This portfolio I have created In masai school. In masai school I have learn MERN
 
 # # # Plus point:
 
-It is a fully responsive portfolio. You can check it onn any screen size small,medium and large it will work tottly fine.
+It is a fully responsive portfolio. You can check it on any screen size small,medium and large it will work totaly fine.
 
 # # # Live Demo:
 
