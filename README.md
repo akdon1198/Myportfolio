@@ -20,4 +20,3 @@ It is a fully responsive portfolio. You can check it on any screen size small,me
 
 # # # Live Demo:
 
-https://my-portfolio-nikhilguptan.vercel.app/
