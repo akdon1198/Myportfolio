@@ -27,16 +27,16 @@ function Contact() {
                 alt="gitHub"
               />
             </a>
-            <a
+            {/* <a
               target="_blank"
               href="https://www.linkedin.com/in/nikhil-gupta-6a933918b/"
-            >
+            > */}
               <img
                 className="icon2"
                 src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-vert.png"
                 alt="linkedIn"
               />
-            </a>
+            {/* </a> */}
           </div>
         </div>
         <div className="phoneAndEmail">

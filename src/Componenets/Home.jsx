@@ -31,19 +31,19 @@ function Home() {
                 alt="gitHub"
               />
             </a>
-            <a
+            {/* <a
               href="https://www.linkedin.com/in/nikhil-gupta-6a933918b/"
               target="_blank"
-            >
+            > */}
               <img
                 className="icon"
                 src="https://icones.pro/wp-content/uploads/2021/03/icone-linkedin-ronde-vert.png"
                 alt="linkedIn"
               />
-            </a>
+            {/* </a> */}
           </div>
           <br />
-          <a href="./icons/resume.pdf" target="_blank">
+          <a href="./icons/Akash's Gupta.pdf" target="_blank">
             <button className="resume">Resume</button>
           </a>
         </div>
