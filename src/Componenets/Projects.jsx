@@ -6,38 +6,36 @@ function Projects() {
       <div className="headChild">
         <div className="projectImage">
           <img
-            src="./icons/cultFit.PNG"
+            src="./icons/netflix.png"
             className="ProjectLogoImage"
-            alt="CultFitLogo"
+            alt="netflixclone"
           />
         </div>
         <div className="projectContent">
-          <h3 className="projectTitle">CultFit Clone</h3>
+          <h3 className="projectTitle">netflix Clone</h3>
           <br />
           <span className="projectDetail">
-          It is a collaborative project build by team of 4. For creating this
-            project we use HTML,CSS and javascript. user can login to over
-            website and also purchase fitness products.
+          It is a netflix clone mainly in react css and using local Storage.It also has 
+          login and register functionality.When refresh a page random movie appear.
           </span>
           <br />
           <a
             target="_blank"
-            href="https://nikhilguptan.github.io/CultFitWithLink/"
+            href="https://glowing-dodol-fb7f3e.netlify.app/"
           >
             <button className="projectButton">See This Live</button>
           </a>
           <a
             target="_blank"
-            href="https://github.com/NikhilGuptan/cult.fit-clone"
+            href="https://github.com/akdon1198/netflix-clone"
           >
             <button className="projectButton">Source Code</button>
           </a>
           <br />
           <div className="technologiesDiv">
-            <span className="Technologies">HTML</span>
+            <span className="Technologies">React</span>
             <span className="Technologies">CSS</span>
-            <span className="Technologies">JavaScript</span>
-            <span className="Technologies">Bootstrap</span>
+            <span className="Technologies">ContextAPI</span>
             <span className="Technologies clearClass">LocalStorage</span>
           </div>
         </div>
@@ -45,29 +43,34 @@ function Projects() {
       <div className="headChild">
         <div className="projectImage">
           <img
-            src="./icons/olx.PNG"
+            src="./icons/E COMMERCE.PNG"
             className="ProjectLogoImage"
-            alt="CultFitLogo"
+            alt="E COMMERCE"
           />
         </div>
         <div className="projectContent">
-          <h3 className="projectTitle">OLX.COM Clone</h3>
+          <h3 className="projectTitle">E Commerce</h3>
           <br />
           <span className="projectDetail">
-            It is a collaborative project build by team of 4. For creating this
-            project we use React,MongoDB and NodeJs. user can login to over
-            website and also Add new ads.
+           It is an E COMMERCE website.We can view any category item sort on basis of 
+           color, size.Add item in the cart and delete item from the cart.
           </span>
           <br />
-          <a target="_blank" href="https://github.com/cybervirus997/Olx">
+          <a
+            target="_blank"
+            href="https://shimmering-sprite-a40649.netlify.app/"
+          >
+            <button className="projectButton">See This Live</button>
+          </a>
+          <a target="_blank" href="https://github.com/akdon1198/E-COMMERCE">
             <button className="projectButton">Source Code</button>
           </a>
           <br />
           <div className="technologiesDiv">
             <span className="Technologies">React</span>
+            <span className="Technologies">Reduxtoolkit</span>
             <span className="Technologies">CSS</span>
-            <span className="Technologies">JavaScript</span>
-            <span className="Technologies">NodeLs</span>
+            <span className="Technologies">Express</span>
             <span className="Technologies">MongoDB</span>
           </div>
         </div>
@@ -75,29 +78,28 @@ function Projects() {
       <div className="headChild">
         <div className="projectImage">
           <img
-            src="./icons/TicTacToe.PNG"
+            src="./icons/Textgen.PNG"
             className="ProjectLogoImage"
-            alt="CultFitLogo"
+            alt="textgenerator"
           />
         </div>
         <div className="projectContent">
-          <h3 className="projectTitle">Tic-tac-toe Game</h3>
+          <h3 className="projectTitle">Text Generator</h3>
           <br />
           <span className="projectDetail">
-            A regular and fully responsive Tic-tac-toe game that can be played
-            on a mobile phone also. This is a solo project I have created in 2
-            days. For creating this project I mainly focus on React and Css.
+           This is a Text Generator. We can Generate any text. Add multiple text.
+           Lock the text. Delete the text
           </span>
           <br />
-          <a target="_blank" href="https://nikhilguptan.github.io/tic-tac-toe/">
+          <a target="_blank" href="https://akdon1198.github.io/text-generator/">
             <button className="projectButton">See This Live</button>
           </a>
-          <a target="_blank" href="https://github.com/NikhilGuptan/tic-tac-toe">
+          <a target="_blank" href="https://github.com/akdon1198/text-generator">
             <button className="projectButton">Source Code</button>
           </a>
           <br />
           <div className="technologiesDiv">
-            <span className="Technologies">React</span>
+            <span className="Technologies">HTML</span>
             <span className="Technologies">CSS</span>
             <span className="Technologies">JavaScript</span>
           </div>

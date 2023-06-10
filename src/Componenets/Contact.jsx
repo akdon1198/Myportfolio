@@ -20,7 +20,7 @@ function Contact() {
         <br />
         <div className="contactDetails">
           <div className="icons2">
-            <a target="_blank" href="https://github.com/NikhilGuptan">
+            <a target="_blank" href="https://github.com/akdon1198">
               <img
                 className="icon2"
                 src="https://icones.pro/wp-content/uploads/2021/06/icone-github-verte.png"
@@ -42,11 +42,11 @@ function Contact() {
         <div className="phoneAndEmail">
           <div className="iconWithText">
             <img className="icon2" src="./icons/phone.png" alt="gitHub" />
-            <p className="phoneEmail"> 9034893531</p>
+            <p className="phoneEmail"> 8570906112</p>
           </div>
           <div className="iconWithText">
             <img className="icon2" src="./icons/email.png" alt="gitHub" />
-            <p className="phoneEmail"> ng3152340@gmail.com</p>
+            <p className="phoneEmail"> akdon9811@gmail.com</p>
           </div>
         </div>
       </div>

@@ -9,7 +9,7 @@ function Home() {
         <div className="box">
           <span className="hello">Hello !</span>
           <br />
-          <span className="name">I'm Nikhil Gupta</span>
+          <span className="name">I'm Akash Gupta</span>
           <br />
           <span className="iam">
             I'm a <span className="fullStact">full stack </span>devloper
@@ -24,7 +24,7 @@ function Home() {
         </div>
         <div className="box">
           <div className="icons">
-            <a href="https://github.com/NikhilGuptan" target="_blank">
+            <a href="https://github.com/akdon1198" target="_blank">
               <img
                 className="icon"
                 src="https://icones.pro/wp-content/uploads/2021/06/icone-github-verte.png"
@@ -49,7 +49,7 @@ function Home() {
         </div>
       </div>
       <div className="image">
-        <img className="profile" src="./icons/profile.jpg" alt="profile pic" />
+        <img className="profile" src="./icons/profilepic.jpg" alt="profile pic" />
       </div>
     </div>
   );
